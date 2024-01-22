@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on [Tugas Kelompok](https://github.com/apanyaclay/Tugas-Kelompok)
 
-- 🤝 I’m looking for help with [SIA](https://github.com/apanyaclay/SIA)
+- 🤝 I’m looking for help with [UAS](https://github.com/apanyaclay/UAS)
 
 - 👨‍💻 All of my projects are available at [https://infoinkode.com/](https://infoinkode.com/)
 
