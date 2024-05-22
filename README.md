@@ -10,9 +10,9 @@
 
 - 👯 I’m looking to collaborate on [Tugas Kelompok](https://github.com/apanyaclay/Tugas-Kelompok)
 
-- 🤝 I’m looking for help with [UAS](https://github.com/apanyaclay/UAS)
+- 🤝 I’m looking for help with [E-Learning](https://github.com/apanyaclay/e-learning)
 
-- 👨‍💻 All of my projects are available at [https://infoinkode.com/](https://infoinkode.com/)
+- 👨‍💻 All of my projects are available at [https://apanyaclay.com/](https://apanyaclay.com/)
 
 - 💬 Ask me about **PHP, JS**
 
