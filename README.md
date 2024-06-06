@@ -4,17 +4,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=apanyaclay" alt="apanyaclay" /></a> </p>
 
-- 🔭 I’m currently working on [InfoinKode](https://github.com/InfoinKode)
+- 🔭 I’m currently working on [ApanyaClay](https://apanyaclay.com/)
 
-- 🌱 I’m currently learning **TS, Dart, Laravel**
+- 🌱 I’m currently learning **Dart, Laravel**
 
-- 👯 I’m looking to collaborate on [Tugas Kelompok](https://github.com/apanyaclay/Tugas-Kelompok)
+- 👯 I’m looking to collaborate on []()
 
-- 🤝 I’m looking for help with [E-Learning](https://github.com/apanyaclay/e-learning)
+- 🤝 I’m looking for help with []()
 
 - 👨‍💻 All of my projects are available at [https://apanyaclay.com/](https://apanyaclay.com/)
 
-- 💬 Ask me about **PHP, JS**
+- 💬 Ask me about **PHP, Node JS**
 
 - 📫 How to reach me **apanyaclay1@gmail.com**
 
